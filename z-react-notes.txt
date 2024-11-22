@@ -1,0 +1,15 @@
+installing - tailwind css vite
+start -npm run dev
+Real Dom vs Virtual Dom
+fregments
+teilwind
+use state hook -variable
+Components -folder stracture // Heading.js
+props -date passing //object
+//homework - make any website using components✅✅
+React Router Dom
+//create without reloding app💟
+axios - npm i axios
+two way binding - useState & onChange
+routing//dynamic routing
+useEffect
